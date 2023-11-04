@@ -9,3 +9,5 @@ I'm Kadin, a passionate software developer and tech enthusiast based in Auckland
 🔍 Analytical & Creative Thinker: With a Bachelor's degree in Business and a marketing background, I possess a keen analytical mind and a creative flair. My diverse background allows me to approach problem-solving from multiple perspectives, finding unique and effective solutions.
 
 🌍 Customer-Centric Professional: My experience extends beyond coding. I've worked in diverse environments, providing excellent customer service and building strong relationships. I believe in the power of technology to meet people's needs and create positive, meaningful experiences.
+
+🎨 Fun Fact: I initially ventured into marketing due to my love for creativity. However, during my journey, I fell in love with the analytical side and the art of creation. This passion fusion led me to pursue a path where marketing and software development skills converge.
