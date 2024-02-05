@@ -11,3 +11,5 @@ I'm Kadin, a passionate software developer and tech enthusiast based in Auckland
 🌍 Customer-Centric Professional: My experience extends beyond coding. I've worked in diverse environments, providing excellent customer service and building strong relationships. I believe in the power of technology to meet people's needs and create positive, meaningful experiences.
 
 🎨 Fun Fact: I initially ventured into marketing due to my love for creativity. However, during my journey, I fell in love with the analytical side and the art of creation. This passion fusion led me to pursue a path where marketing and software development skills converge.
+
+<a href="https://kadin-vo.netlify.app/">Check out my portfolio here! </a>
